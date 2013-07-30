@@ -1,2 +1,2 @@
-django-cm-flattr
+django-cms-flattr
 ================
